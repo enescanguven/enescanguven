@@ -22,7 +22,8 @@ I design and build distributed systems, data-intensive applications, and secure 
 📫 **How to reach me:**  
 [enescanguven.com](https://enescanguven.com) • [LinkedIn](https://linkedin.com/in/guvenenes) • [Twitter](https://twitter.com/enscngvn)  
 
-⚡ **Fun facts:**  
+⚡ **Some facts:**  
+- 🍲 I make couscous *from scratch* (the best Turkish dish)  
 - 📸 I tinker with analog photography  
 - 🖨️ 3D printing projects  
 - ✈️ Building model aircraft  
