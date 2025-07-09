@@ -1,22 +1,29 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Enes Can Güven
 
 <p align="center">
   <a href="https://chat.enescanguven.com">
-  <img src="https://enescanguven.com/chatwithenes.png">
+    <img src="https://enescanguven.com/chatwithenes.png" alt="Chat with Enes">
   </a>
+  <br>
+  <sub>Yeah, it looks a little weird… but also kinda awesome, right? 😎</sub>
 </p>
-<!--
-**enescanguven/enescanguven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Software Engineer & Security R&D Engineer**  
+I design and build distributed systems, data-intensive applications, and secure architectures. My work blends **full-stack development**, **cybersecurity**, and **AI-driven solutions** to solve complex challenges at scale.  
+
+🚀 **Currently focused on:**  
+- 🛡️ Developing sensitive data detection systems for security platforms  
+- 🌐 Optimizing distributed databases and large-scale systems  
+- ☁️ Cloud-native development (Kubernetes, Docker)  
+
+📫 **How to reach me:**  
+[enescanguven.com](https://enescanguven.com) • [LinkedIn](https://linkedin.com/in/enescanguven) • [Twitter](https://twitter.com/enescanguven)  
+
+⚡ **Fun facts:**  
+- 📸 I tinker with analog photography  
+- 🖨️ 3D printing projects  
+- ✈️ Building model aircraft  
+- 📻 Amateur radio experiments  
+- 🥾 Getting lost in the mountains trekking  
