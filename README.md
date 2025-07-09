@@ -19,7 +19,7 @@ I design and build distributed systems, data-intensive applications, and secure 
 - ☁️ Cloud-native development (Kubernetes, Docker)  
 
 📫 **How to reach me:**  
-[enescanguven.com](https://enescanguven.com) • [LinkedIn](https://linkedin.com/in/enescanguven) • [Twitter](https://twitter.com/enescanguven)  
+[enescanguven.com](https://enescanguven.com) • [LinkedIn](https://linkedin.com/in/guvenenes) • [Twitter](https://twitter.com/enscngvn)  
 
 ⚡ **Fun facts:**  
 - 📸 I tinker with analog photography  
