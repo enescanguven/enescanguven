@@ -15,8 +15,9 @@ I design and build distributed systems, data-intensive applications, and secure 
 
 🚀 **Currently focused on:**  
 - 🛡️ Developing sensitive data detection systems for security platforms  
-- 🌐 Optimizing distributed databases and large-scale systems  
-- ☁️ Cloud-native development (Kubernetes, Docker)  
+- 🌐 Designing and optimizing distributed systems and large-scale architectures  
+- 🧠 Applying AI/ML techniques to enhance security workflows  
+
 
 📫 **How to reach me:**  
 [enescanguven.com](https://enescanguven.com) • [LinkedIn](https://linkedin.com/in/guvenenes) • [Twitter](https://twitter.com/enscngvn)  
