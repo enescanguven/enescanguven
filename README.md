@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Enes Can Güven
-
+### Hey 👋 I'm Enes Can Güven — and yes, I built this page with AI
 <p align="center">
   <a href="https://chat.enescanguven.com">
     <img src="https://enescanguven.com/chatwithenes.png" alt="Chat with Enes">
